@@ -1,0 +1,314 @@
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "70AAJ-6-M0G"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "70AAJ-6-M0G"
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "jlc:CONN-SMD_12P-P2.54_70AAJ-6-M0G"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://img.jlc.com/pdf/applyPasteComponent/2022-08-08/558008A/a6767b553c294711a64559c6100bb0e7/70AAJ-6-M0G.pdf"
+			(at -2.286 0.127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5137163"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "C5137163"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "70AAJ-6-M0G_0_1"
+			(rectangle
+				(start -8.89 3.81)
+				(end 8.89 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -7.62 -2.54)
+				(radius 0.381)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin unspecified line
+				(at -6.35 6.35 270)
+				(length 2.54)
+				(name "12"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -6.35 -6.35 90)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -3.81 6.35 270)
+				(length 2.54)
+				(name "11"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -3.81 -6.35 90)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -1.27 6.35 270)
+				(length 2.54)
+				(name "10"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -1.27 -6.35 90)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 1.27 6.35 270)
+				(length 2.54)
+				(name "9"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 1.27 -6.35 90)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 3.81 6.35 270)
+				(length 2.54)
+				(name "8"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 3.81 -6.35 90)
+				(length 2.54)
+				(name "5"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 6.35 6.35 270)
+				(length 2.54)
+				(name "7"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 6.35 -6.35 90)
+				(length 2.54)
+				(name "6"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)
