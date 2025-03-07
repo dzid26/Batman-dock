@@ -174,36 +174,6 @@
 		(uuid "f0cbc8de-a5d7-4944-9631-1eaeafe8d97f")
 	)
 	(fp_line
-		(start -4.471044 1.448819)
-		(end 4.469774 1.448819)
-		(stroke
-			(width 0.254001)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9703d511-b69b-4ff7-950d-1460ca4057f8")
-	)
-	(fp_line
-		(start -4.471044 10.359157)
-		(end -4.471044 1.448819)
-		(stroke
-			(width 0.254001)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "7329fa11-5335-40fc-858a-638a95a007f2")
-	)
-	(fp_line
-		(start 4.469774 1.448819)
-		(end 4.469774 10.359157)
-		(stroke
-			(width 0.254001)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e5cc6bf4-b27c-42eb-a07b-e941a3cbedcb")
-	)
-	(fp_line
 		(start -4.473279 10.357023)
 		(end -4.473279 0.898679)
 		(stroke
@@ -495,13 +465,13 @@
 	(embedded_fonts no)
 	(model "packages3d/USB-TYPE-C-SMD_USB-307HG-B-SU.step"
 		(offset
-			(xyz -0.0000253999996185 0.7501381887 -0.399999194)
+			(xyz 0 -1 -0.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 0)
+			(xyz -90 -0 -0)
 		)
 	)
 )
