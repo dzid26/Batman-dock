@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -60,7 +60,7 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|122569376|99530624|f926617f-5d6f-4f5d-8b69-8e387a148835|1977c0aa-df51-4776-91fe-ed03d3753ff8",
+          "unconnected_items|124978920|96429987|1977c0aa-df51-4776-91fe-ed03d3753ff8|419741c1-1d97-47ca-b5ab-4cc5f147e0aa",
           "ground goes through USB shield"
         ]
       ],
@@ -130,9 +130,9 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.2,
+        "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.254,
+        "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.4,
         "min_microvia_diameter": 0.1,
         "min_microvia_drill": 0.1,
