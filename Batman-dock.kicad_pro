@@ -60,8 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|124978920|96429987|1977c0aa-df51-4776-91fe-ed03d3753ff8|419741c1-1d97-47ca-b5ab-4cc5f147e0aa",
-          "ground goes through USB shield"
+          "unconnected_items|122569376|99530624|419741c1-1d97-47ca-b5ab-4cc5f147e0aa|6436423a-076f-4122-82c7-0a3f3a3ad1d4",
+          "Connection via USB shield"
         ]
       ],
       "meta": {

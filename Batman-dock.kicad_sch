@@ -3239,7 +3239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "jlc:USB-TYPE-C-SMD_USB-307HG-B-SU"
+		(property "Footprint" "jlc:USB-SMD_HC-TYPE-C-24P-CP1.0-5A-L10.45-01"
 			(at 199.39 85.09 0)
 			(effects
 				(font
@@ -3266,7 +3266,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C309352"
+		(property "LCSC" "C5345938"
+			(at 203.2 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 203.2 85.09 0)
 			(effects
 				(font
