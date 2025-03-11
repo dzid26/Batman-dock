@@ -1,0 +1,5 @@
+- Kicad 9
+    - [Fabrication plugin](https://github.com/bennymeg/Fabrication-Toolkit)
+- Freecad 1.1
+    - [exportProject.FCMacro](https://gist.github.com/dzid26/e0ff365de43cabe658df9d93b92d1954) to quickly export step files with a macro
+    - KiStepUp plugin to export `PCB_Sketch_master.stp` to Kicad and import part positions from Kicad
