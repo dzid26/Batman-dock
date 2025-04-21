@@ -60,8 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|122569376|99530624|419741c1-1d97-47ca-b5ab-4cc5f147e0aa|6436423a-076f-4122-82c7-0a3f3a3ad1d4",
-          "Connection via USB shield"
+          "unconnected_items|124936319|97280124|ab510bd6-7698-4ccd-9591-06293129c802|5043b526-4ae3-4d49-9ea6-d5821c5f70de",
+          "connected via shield"
         ]
       ],
       "meta": {
@@ -113,6 +113,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
