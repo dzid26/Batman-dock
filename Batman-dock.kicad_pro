@@ -60,8 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|124936319|97280124|ab510bd6-7698-4ccd-9591-06293129c802|5043b526-4ae3-4d49-9ea6-d5821c5f70de",
-          "connected via shield"
+          "unconnected_items|122386291|99427307|9769fa20-f56b-4344-86cb-709d968831ea|ab510bd6-7698-4ccd-9591-06293129c802",
+          "connected via usb shield"
         ]
       ],
       "meta": {
