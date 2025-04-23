@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(rev "B")
+		(rev "C")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -2905,8 +2905,8 @@
 		(layer "Edge.Cuts")
 		(uuid "f3bffd92-fc8f-4f2c-9090-69d687ac194e")
 	)
-	(gr_text "Batman-dock\nRev. ${REVISION}"
-		(at 142.855 93.42 0)
+	(gr_text "Rev. ${REVISION}\nBatman-dock"
+		(at 141.4 98.16 0)
 		(layer "B.SilkS")
 		(uuid "3c5536f9-ef4b-467a-a479-64093d07b822")
 		(effects
