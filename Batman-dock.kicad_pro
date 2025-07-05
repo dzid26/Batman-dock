@@ -60,8 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|122386291|99427307|619fed84-3be3-46ff-80c5-08350107e2fb|ab510bd6-7698-4ccd-9591-06293129c802",
-          "ground via usb shield"
+          "unconnected_items|124936319|97280124|ab510bd6-7698-4ccd-9591-06293129c802|c4d1a592-554f-4730-831b-4147085d827b",
+          "via shield"
         ]
       ],
       "meta": {
@@ -553,7 +553,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": -1,
     "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
