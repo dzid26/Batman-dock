@@ -4030,7 +4030,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "742e10a3-ad38-4afe-85f8-5f4115a07c2c")
@@ -4291,10 +4291,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "74662005-42d2-4871-8d71-6194abeac784")
+			(uuid "74662005-42d2-4871-8d71-6194abeac785")
 		)
 		(pin "2"
-			(uuid "d0ea4a2d-2d7e-4d34-8a6f-0ea7e23028a0")
+			(uuid "d0ea4a2d-2d7e-4d34-8a6f-0ea7e23028a1")
 		)
 		(instances
 			(project "Batman-dock"
@@ -4666,10 +4666,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c9ce4a50-f68a-45b7-8beb-0272f8cc8026")
+			(uuid "c9ce4a50-f68a-45b7-8beb-0272f8cc8027")
 		)
 		(pin "2"
-			(uuid "5019f615-a2c1-414e-b205-11b3314d97c9")
+			(uuid "5019f615-a2c1-414e-b205-11b3314d97ca")
 		)
 		(instances
 			(project "Batman-dock"
@@ -4750,7 +4750,7 @@
 		(at 151.13 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e045d18d-2354-42c0-9f83-78946bfe8bf7")
@@ -4927,7 +4927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_HOOYA-USB-307HG-B-SU_C309352.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590908165234520064"
 			(at 199.39 85.09 0)
 			(effects
 				(font
